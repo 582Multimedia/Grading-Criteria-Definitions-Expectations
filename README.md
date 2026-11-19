@@ -26,7 +26,7 @@ Professionalism:
 Demonstrates responsibility, preparedness, and effective time management throughout the project. Meets deadlines and maintains respectful and professional behaviour in class.
 
 Progress and Process: 
-Evidence of an iterative design process, including sketches, drafts, revisions, feedback integration, and consistent development from concept to final outcome.
+Evidence of an iterative design process, revisions, feedback integration, and consistent development from concept to final outcome.
 
 Research: 
 Depth and relevance of visual, historical, and contextual research. References effectively inform the concept and design decisions.
